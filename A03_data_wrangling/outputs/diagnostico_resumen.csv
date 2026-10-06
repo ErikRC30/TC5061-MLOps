@@ -1,0 +1,7 @@
+,declarado,observado
+duplicados (filas),0.02,0.0199
+faltantes (celdas),0.01,0.0094
+outliers (celdas num.),0.01,0.0081
+tokens inválidos (celdas),0.005,0.0049
+ruido de espacios (celdas),0.05,0.0498
+columna de tipo mixto,sí,sí (['mixed_type_col'])

@@ -1,0 +1,6 @@
+,A_eliminacion,B_mediana,C_interpolacion
+KS promedio,0.0075,0.0093,0.002
+KS máximo,0.0136,0.0139,0.005
+Wass_norm promedio,0.0121,0.0124,0.0039
+|dStd_%| promedio,1.6064,1.7674,1.0385
+columnas con KS p<0.05,0.0,0.0,0.0

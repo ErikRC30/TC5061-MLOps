@@ -1,0 +1,35 @@
+estrategia,col,n,métrica,valor
+B_mediana,S1_Temp,263,MAE/σ,0.7077524157525933
+B_mediana,S2_Temp,263,MAE/σ,0.5733977914083208
+B_mediana,S3_Temp,257,MAE/σ,0.7846165283119205
+B_mediana,S4_Temp,241,MAE/σ,0.7228120857041976
+B_mediana,S1_Light,218,MAE/σ,0.49566314700597375
+B_mediana,S2_Light,229,MAE/σ,0.3237599234864108
+B_mediana,S3_Light,218,MAE/σ,0.6598665488471429
+B_mediana,S4_Light,218,MAE/σ,0.8805874318666135
+B_mediana,S1_Sound,238,MAE/σ,0.4385966857180597
+B_mediana,S2_Sound,237,MAE/σ,0.6939398591407963
+B_mediana,S3_Sound,229,MAE/σ,0.8376020661559809
+B_mediana,S4_Sound,201,MAE/σ,0.49675886743059755
+B_mediana,S5_CO2,250,MAE/σ,0.5873029547666394
+B_mediana,S5_CO2_Slope,226,MAE/σ,0.5475000537715978
+B_mediana,S6_PIR,186,exactitud %,90.32258064516128
+B_mediana,S7_PIR,199,exactitud %,90.95477386934674
+B_mediana,Room_Occupancy_Count,207,exactitud %,75.84541062801932
+C_interpolacion,S1_Temp,263,MAE/σ,0.029669845316470676
+C_interpolacion,S2_Temp,263,MAE/σ,0.02258265890370478
+C_interpolacion,S3_Temp,257,MAE/σ,0.032042094762079115
+C_interpolacion,S4_Temp,241,MAE/σ,0.06147717120302782
+C_interpolacion,S1_Light,218,MAE/σ,0.002248109338742624
+C_interpolacion,S2_Light,229,MAE/σ,0.02335742934972102
+C_interpolacion,S3_Light,218,MAE/σ,0.004320040493583247
+C_interpolacion,S4_Light,218,MAE/σ,0.006786350125998351
+C_interpolacion,S1_Sound,238,MAE/σ,0.40076150263265997
+C_interpolacion,S2_Sound,237,MAE/σ,0.5719425349509146
+C_interpolacion,S3_Sound,229,MAE/σ,0.6606907167728898
+C_interpolacion,S4_Sound,201,MAE/σ,0.44960520328518294
+C_interpolacion,S5_CO2,250,MAE/σ,0.004780838085464129
+C_interpolacion,S5_CO2_Slope,226,MAE/σ,0.009171462570592896
+C_interpolacion,S6_PIR,186,exactitud %,89.78494623655914
+C_interpolacion,S7_PIR,199,exactitud %,92.96482412060301
+C_interpolacion,Room_Occupancy_Count,207,exactitud %,99.51690821256038
